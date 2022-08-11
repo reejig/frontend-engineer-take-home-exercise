@@ -41,7 +41,7 @@ If we schedule a follow up technical interview, we will use your test as a basis
 - It should be possible to reset both the filter and sort with a reset button.
 - It should be possible to remove an individual profile.
 
-**For this test sorting, filtering and removing a profile only needs work on the UI. There is no need to persist the changes on the FE or a BE.**
+**For this test sorting, filtering and removing a profile only needs work on the UI. There is no need to persist the changes on the front end or a back end.**
 
 ## Project setup
 

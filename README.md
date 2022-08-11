@@ -51,5 +51,6 @@ If we schedule a follow up technical interview, we will use your test as a basis
 4. Run `npm run dev`
 
 Please get in touch if you have any problems with the set up.
-Submission
-Please email <email address> the link to your github repository containing your exercise.
+
+##Submission
+Please email your contact at Reejig the link to your github repository containing your exercise.

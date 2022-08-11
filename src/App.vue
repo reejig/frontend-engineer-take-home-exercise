@@ -11,8 +11,11 @@
   </div>
   <div>
     <h1>Hi! 👋</h1>
-    <p>Thanks for taking some time to apply for a frontend role at Reejig.</p>
-    <p>All the details you need are in the README. Good luck!</p>
+    <p>Thanks for taking the time to apply for a frontend role at Reejig.</p>
+    <p>
+      Feel free to remove this greeting and get started. All the details you
+      need are in the project README. Good luck!
+    </p>
   </div>
 </template>
 
@@ -23,9 +26,6 @@
   will-change: filter;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
+  filter: drop-shadow(0 0 2em #ff0008);
 }
 </style>

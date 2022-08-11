@@ -1,19 +1,19 @@
 <script setup lang="ts">
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
   <div>
     <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+      <img src="./assets/ReejigSymbol.svg" class="logo" alt="Reejig logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <div>
+    <h1>Hi! 👋</h1>
+    <p>Thanks for taking some time to apply for a frontend role at Reejig.</p>
+    <p>All the details you need are in the README. Good luck!</p>
+  </div>
 </template>
 
 <style scoped>
